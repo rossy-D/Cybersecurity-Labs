@@ -1,6 +1,5 @@
 # Cybersecurity-Labs
 Hands-on labs and projects from cybersecurity training
-# Cybersecurity Labs
 
 ## Lab 1 – Network Scanning
 - Tool: Nmap
