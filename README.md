@@ -13,3 +13,12 @@ Hands-on labs and projects from cybersecurity training
 
 ## Lab 3 – Linux Security
 - Task: Practiced system hardening on Ubuntu
+
+## Skills & Technologies
+
+- Linux
+- Windows
+- Networking fundamentals (TCP/IP, DNS)
+- Nmap
+- Wireshark
+- Basic vulnerability assessment
