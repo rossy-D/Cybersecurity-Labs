@@ -29,3 +29,11 @@ Hands-on labs and projects from cybersecurity training
 ### Lab 1 – Network Scanning
 - Tool: Nmap
 - Description: Performed basic network scanning to identify open ports and services.
+
+
+### Lab 2 – Traffic Analysis
+- Tool: Wireshark
+- Description: Captured and analyzed network packets to identify suspicious activity.
+
+### Lab 3 – Linux Security
+- Description: Practiced basic system hardening on Ubuntu and user permissions.
