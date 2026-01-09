@@ -29,3 +29,4 @@ Hands-on labs and projects from cybersecurity training
 ### Lab 1 – Network Scanning
 - Tool: Nmap
 - Description: Performed basic network scanning to identify open ports and services.
+
